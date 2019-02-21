@@ -1,0 +1,4 @@
+com\demo\spring\JpaBootApp1Application.class
+com\demo\spring\config\JpaConfig.class
+com\demo\spring\entity\Emp.class
+com\demo\spring\JpaTestRunner.class
